@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hatembentayeb" alt="hatembentayeb" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hatembentayeb" target="blank"><img src="https://img.shields.io/twitter/follow/hatembtayeb?logo=twitter&style=for-the-badge" alt="hatembtayeb" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hatembentayeb" target="blank"><img src="https://img.shields.io/twitter/follow/hatembentayeb?logo=twitter&style=for-the-badge" alt="hatembentayeb" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/hatembentayeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hatembentayeb" height="30" width="40" /></a>
-<a href="https://twitter.com/hatembtayeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hatembtayeb" height="30" width="40" /></a>
+<a href="https://twitter.com/hatembentayeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hatembentayeb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hatembentayeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hatembentayeb" height="30" width="40" /></a>
 <a href="https://medium.com/@hatembentayeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hatemtayeb2" height="30" width="40" /></a>
 </p>
